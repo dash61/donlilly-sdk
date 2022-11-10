@@ -1,0 +1,19 @@
+{
+  "name": "lotr-sdk-lilly",
+  "version": "1.0.0",
+  "description": "Lord of the Rings SDK",
+  "main": "sdk.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "donlilly-sdk"
+  },
+  "keywords": [
+    "SDK",
+    "LOTR"
+  ],
+  "author": "Don Lilly",
+  "license": "ISC"
+}
